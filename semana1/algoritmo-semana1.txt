@@ -1,0 +1,8 @@
+Algoritmo para compartir información confiable en entornos virtuales:
+
+1. Leer la información completa de la publicación y evitar quedarse solo con el título o la imagen.
+2. Identificar el autor, el sitio web o la cuenta que la publica para evaluar si tiene credibilidad.
+3. Buscar la fecha original de la publicación para comprobar que no sea una noticia vieja sacada de contexto.
+4. Rastrear en un buscador si otros medios de comunicación o instituciones oficiales están hablando del mismo tema.
+5. Analizar de forma crítica si el contenido parece redactado de forma exagerada, amarillista o con intenciones de generar odio.
+6. Compartir el contenido con otras personas únicamente si se superaron todos los filtros de verificación anteriores.

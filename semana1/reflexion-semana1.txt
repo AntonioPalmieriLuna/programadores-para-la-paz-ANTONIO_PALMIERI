@@ -1,0 +1,9 @@
+Para mí, existe una conexión muy clara entre la ciudadanía, la información y el desarrollo técnico.
+Todos estos conceptos se basan principalmente en valores como el orden, la ética y la responsabilidad.
+Ser un ciudadano digital implica entender que lo que hacemos en la red impacta directamente a la sociedad.
+Por lo tanto, participar activamente exige que manejemos y compartamos datos que sean verídicos y útiles.
+Al trasladar ese compromiso al trabajo técnico, las herramientas de control de versiones toman un rol clave.
+Git nos enseña a ser organizados, limpios y transparentes con cada uno de los procesos que desarrollamos.
+El uso responsable de la información nos protege a todos de caer en el engaño de las noticias falsas.
+Además, la participación nos conecta con la comunidad, y Git nos ayuda a estructurar proyectos colaborativos.
+Al final, tanto en el entorno virtual como en el técnico, requerimos pautas claras para trabajar bien en equipo.
