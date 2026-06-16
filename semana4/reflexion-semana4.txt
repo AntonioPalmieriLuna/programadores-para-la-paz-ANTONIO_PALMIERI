@@ -1,0 +1,8 @@
+La creación de herramientas tecnológicas propias mediante tecnologías abiertas como Node. 
+Js es fundamental para que las comunidades logren una verdadera autonomía digital. 
+Al no depender de software propietario o de grandes corporaciones.
+Las iniciativas ciudadanas pueden moldear las plataformas según sus necesidades reales y territoriales sin costo de licencias.
+Además, el ecosistema de código abierto permite auditar el código, garantizando la transparencia y la privacidad de los datos de los usuarios involucrados.
+Esto democratiza el acceso al desarrollo web, transformando a los ciudadanos de simples consumidores de contenido a creadores de soluciones para su entorno.
+De este modo, el software libre se convierte en un motor de innovación social que fortalece el tejido comunitario.
+La libre organización y la resolución de problemáticas locales de manera colaborativa.
