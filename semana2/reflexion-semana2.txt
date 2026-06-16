@@ -1,0 +1,9 @@
+Para cualquier desarrollador, dominar la terminal es una habilidad fundamental en el día a día.
+Aprender a usarla nos permite movernos por los proyectos con mucha más velocidad y agilidad.
+La interfaz gráfica a veces se queda corta o se congela cuando manejamos demasiados archivos.
+En cambio, con la consola tenemos un control directo y preciso sobre todo el sistema operativo.
+Saber organizar carpetas y directorios desde comandos evita que cometamos errores borrando rutas clave.
+Además, la gran mayoría de las herramientas avanzadas de programación requieren el uso de la consola.
+Por ejemplo, para conectar nuestro flujo de trabajo con Git y GitHub dependemos totalmente de ella.
+Tener carpetas bien estructuradas demuestra orden técnico y facilita mucho el mantenimiento del código.
+En conclusión, la terminal optimiza nuestro tiempo y nos prepara para entornos de desarrollo profesionales.
