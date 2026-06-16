@@ -1,0 +1,9 @@
+Mantener un registro detallado de los cambios es una de las mejores prácticas que podemos adoptar en el desarrollo.
+Herramientas como Git nos salvan la vida al funcionar como una máquina del tiempo para nuestro código fuente.
+Si una actualización o una nueva función rompe el sistema, podemos regresar a una versión estable en segundos.
+Esto evita que perdamos horas de trabajo intentando recordar qué línea dañó toda la aplicación del proyecto.
+Además, la trazabilidad nos permite entender el flujo de evolución que ha tenido el software desde el día uno.
+Saber con precisión quién hizo un cambio, cuándo lo hizo y por qué lo hizo facilita la corrección de errores.
+En el ámbito profesional, trabajar sin un control de versiones volvería caótica la colaboración entre desarrolladores.
+Git nos da la tranquilidad de experimentar con código nuevo en ramas separadas sin poner en riesgo el software principal.
+Por todo esto, documentar ordenadamente los avances con commits claros es sinónimo de profesionalismo y seguridad técnica.

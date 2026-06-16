@@ -1,0 +1,14 @@
+Repositorio:
+Es como una carpeta inteligente o baúl digital.
+Donde almacenamos todos los recursos, códigos y documentos de nuestro proyecto.
+Su ventaja es que no solo guarda los archivos actuales, sino que guarda un registro histórico completo de cómo han cambiado a lo largo del tiempo.
+
+Commit:
+Funciona como una foto o una captura instantánea del estado de nuestro código
+En un momento exacto del desarrollo.
+Nos sirve para guardar un avance seguro del proyecto y dejar un mensaje cortoque explique qué cambios o mejoras acabamos de programar.
+
+Push:
+Es el comando que se encarga de subir y sincronizar todos los commits
+que hemos guardado de forma local (en este caso, en Codespaces) hacia los servidores remotos de GitHub.
+Permite que nuestro trabajo quede respaldado en la nube y sea visible para los profesores o el equipo.
