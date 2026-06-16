@@ -1,0 +1,4 @@
+{
+  "tipo": "Falla de alcantarillado",
+  "descripcion": "Los habitantes del sector reportan una filtración de aguas residuales en la intersección de la calle principal, generando malos olores y afectando la movilidad peatonal."
+}

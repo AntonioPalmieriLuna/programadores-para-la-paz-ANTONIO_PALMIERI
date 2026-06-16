@@ -1,0 +1,13 @@
+Descripción de la respuesta del servidor:
+
+Al enviar una petición HTTP bajo el método POST al endpoint 'http://localhost:3000/registro' con el objeto JSON que contiene "nombre": "Maria" y "mensaje": "Hola comunidad"
+el servidor Express procesa con éxito la solicitud gracias al middleware 'express.json()'. 
+
+Como respuesta, el servidor devuelve un estado HTTP 200 (OK) y un cuerpo en formato JSON idéntico al esperado:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el backend interceptó correctamente los datos desde req.body, los estructuró en un nuevo objeto y los retornó al cliente de forma limpia y legible.
