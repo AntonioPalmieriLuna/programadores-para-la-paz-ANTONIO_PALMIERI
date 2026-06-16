@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador:
+
+1. http://localhost:3000
+   Al acceder, el navegador muestra el texto plano "Servidor activo". Esto confirma que la raíz del servidor Express está respondiendo de manera correcta y que el servidor se encuentra encendido.
+
+2. http://localhost:3000/saludo
+   La pantalla muestra el mensaje "Hola comunidad". Se ejecuta una función asociada a una ruta estática específica (/saludo) definida con el método GET.
+
+3. http://localhost:3000/mensaje/juan
+   El navegador responde dinámicamente mostrando "Hola juan". El servidor intercepta el parámetro ':nombre' de la URL, extrae el valor "juan" mediante 'req.params.nombre' y lo concatena en la respuesta. Si se cambia "juan" por cualquier otra palabra, el servidor responderá reflejando ese cambio.

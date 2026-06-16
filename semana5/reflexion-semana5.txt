@@ -1,0 +1,8 @@
+Las APIs son herramientas esenciales para estructurar el flujo de datos dentro de una comunidad.
+Al estandarizar la forma en que se solicita y envía la información, permiten centralizar reportes, alertas tempranas
+O necesidades vecinales en un solo punto accesible y seguro.
+Esto evita la dispersión que ocurre en canales informales como redes sociales o mensajería, donde las urgencias se pierden rápidamente en el historial de conversación.
+Además, una API organizada facilita la integración de los datos con otras aplicaciones o tableros visuales
+haciendo que el monitoreo de problemáticas del sector sea transparentepara todos los ciudadanos.
+De este modo, el desarrollo de estos servicios promueve una participación activa, coordinada y tecnológica
+Que fortalece el tejido social y agiliza las soluciones del entorno.
