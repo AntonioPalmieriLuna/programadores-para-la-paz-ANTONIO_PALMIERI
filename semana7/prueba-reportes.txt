@@ -1,0 +1,7 @@
+Descripción del comportamiento del servidor:
+
+Al realizar una petición HTTP GET a la ruta 'http://localhost:3000/reportes' inmediatamente después de encender el servidor, este responde con un arreglo vacío '[]'. Esto ocurre debido a que la variable global 'reportes' se inicializa sin elementos en memoria.
+
+Posteriormente, al enviar solicitudes HTTP POST con objetos JSON válidos a la misma URL, el backend intercepta las propiedades, les asigna un identificador numérico único basado en la longitud actual del arreglo mediante 'reportes.length + 1' y ejecuta la función '.push()' para indexarlos. 
+
+Finalmente, al consultar de nuevo la ruta mediante GET, el servidor devuelve un objeto estructurado en formato JSON que contiene el listado consolidado de todos los datos cargados. Cabe destacar que, debido a la naturaleza del almacenamiento en memoria volátil, si el proceso de Node.js se detiene con Ctrl+C, el arreglo se vacía por completo de forma automática.

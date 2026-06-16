@@ -1,0 +1,10 @@
+La implementación de plataformas tecnológicas que permitan registrar y consultar reportes
+es un paso gigante hacia la transparencia y la eficiencia comunitaria.
+Al centralizar las incidencias en un sistema digital accesible, los ciudadanos dejan de depender de intermediarios o de la suerte de que un mensaje
+en redes sociales sea visto.
+Esta visibilidad compartida democratiza el control social,
+ya que cualquier miembro de la vecindad puede auditar qué problemas persisten y cuáles han sido solucionados.
+Además, recopilar estas alertas genera un histórico objetivo y cuantificable que sirve como
+respaldo legal e institucional para exigir acciones concretas a las administraciones locales.
+La tecnología, utilizada de esta manera abierta, transforma la participación de un acto reactivo e individual a un proceso colectivo,
+organizado y con memoria histórica real.
