@@ -1,0 +1,5 @@
+Análisis de la ejecución del servidor:
+
+1. Al ejecutar el comando 'node server.js', Node.js inicializa el entorno de ejecución, procesa el script, carga el módulo de Express y enlaza la aplicación al puerto 3000 de la máquina virtual o local en un bucle de escucha permanente.
+2. En la terminal se imprime inmediatamente el mensaje informativo: 'Servidor ejecutándose en puerto 3000', lo cual confirma que el proceso no ha arrojado excepciones y se encuentra activo a la espera de solicitudes.
+3. Al visitar la ruta '/estado' en el navegador (http://localhost:3000/estado), el servidor intercepta la solicitud HTTP GET, lee la función controladora de la ruta y responde de manera exitosa devolviendo un objeto estructurado en formato JSON con las claves 'estado' y 'servicio', indicando la plena operatividad de la API comunitaria.

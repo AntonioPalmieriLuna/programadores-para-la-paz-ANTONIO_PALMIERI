@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor que aloja plataformas comunitarias son fundamentales para proteger la confianza ciudadana.
+Cuando una comunidad utiliza aplicaciones para reportar incidencias o realizar veedurías, el sistema debe estar disponible ininterrumpidamente.
+Un servidor inestable, que se cae constantemente o pierde datos, desmotiva la participación colectiva y hace que las personas abandonen la herramienta.
+Por esta razón, la infraestructura técnica debe contar con un monitoreo estricto de recursos y una gestión eficiente de puertos de red.
+Además, los logs del sistema juegan un papel crítico en la estabilidad, permitiendo detectar fallas o errores lógicos antes de que afecten a los usuarios.
+Desde la perspectiva de la seguridad digital, blindar el servidor evita manipulaciones externas, inyecciones de datos maliciosos o fugas de información.
+Esto es especialmente sensible en entornos sociales, donde la exposición de reportes legítimos podría vulnerar la privacidad de los vecinos.
+Mantener un servidor seguro y resistente se traduce en un canal democrático confiable, con reglas claras y protección activa de los datos.
+Al final, el código limpio en Express y la correcta administración del entorno son los que garantizan un espacio de control ciudadano robusto.
