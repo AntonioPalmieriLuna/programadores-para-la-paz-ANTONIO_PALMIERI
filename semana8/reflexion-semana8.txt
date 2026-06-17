@@ -1,0 +1,10 @@
+La seguridad digital en plataformas comunitarias y participativas es un pilar fundamental para salvaguardar
+la integridad de los procesos democráticos.
+Cuando las comunidades confían sus datos, opiniones o reportes a un sistema tecnológico, esperan que su identidad y privacidad estén blindadas. Una vulnerabilidad o filtración de datos no solo
+expone información sensible, sino que destruye la confianza colectiva necesaria para la participación.
+Los entornos comunitarios suelen ser blanco de ataques como la suplantación de identidad para manipular votaciones o distorsionar problemas reales. Por ende, aplicar prácticas de seguridad
+en servidores de código abierto como Linux asegura la resiliencia técnica de la aplicación. 
+Esto implica proteger las credenciales, encriptar las comunicaciones y controlar minuciosamente los privilegios mediante roles bien definidos.
+Un desarrollo de software ético debe priorizar la protección de los usuarios más vulnerables que utilizan estas herramientas digitales.
+Así, la seguridad deja de ser una simple métrica de ingeniería y pasa a convertirse en una garantía de respeto a los derechos ciudadanos.
+Al blindar la infraestructura, garantizamos que la tecnología sea un puente transparente, seguro y verdaderamente transformador para la sociedad.

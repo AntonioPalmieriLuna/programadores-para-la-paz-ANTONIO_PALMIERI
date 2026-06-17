@@ -1,0 +1,7 @@
+5 Prácticas esenciales de seguridad para plataformas comunitarias:
+
+1. No exponer datos personales reales: Almacenar la información sensible de forma encriptada o anonimizada para evitar que datos de contacto queden públicos en la red.
+2. Proteger credenciales: Cifrar siempre las contraseñas en la base de datos utilizando algoritmos de hashing fuertes (como bcrypt) para que nunca queden en texto plano.
+3. Usar conexiones seguras: Implementar certificados SSL/TLS para obligar al servidor a comunicarse exclusivamente mediante el protocolo cifrado HTTPS.
+4. Registrar accesos y auditorías: Mantener un registro automatizado de eventos (logs) del sistema para monitorear qué cuentas realizan modificaciones o consultas críticas.
+5. Limitar acceso a información sensible: Implementar un sistema estricto de control de acceso basado en roles (RBAC) para que los usuarios tengan únicamente los permisos mínimos requeridos para su función.

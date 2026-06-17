@@ -1,0 +1,8 @@
+Explicación de comandos del sistema:
+
+1. El comando 'uname -a' muestra toda la información del sistema operativo y del hardware del servidor. Esto incluye el nombre del sistema operativo (Linux), el nombre del host de la red, la versión exacta del núcleo (kernel) de Linux, la fecha de compilación y la arquitectura del procesador (por ejemplo, x86_64).
+
+2. El comando 'whoami' muestra de forma directa el nombre del usuario actual con el que se están ejecutando los comandos en la sesión activa de la terminal.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Es fundamental porque, al desplegar aplicaciones (como nuestros servidores en Node.js y Express), necesitamos saber sobre qué arquitectura y versión de sistema operativo estamos parados para garantizar la compatibilidad de las dependencias. Además, 'whoami' nos permite verificar si estamos operando como usuarios comunes o como el superusuario 'root'; esto evita que ejecutemos comandos de configuración críticos de forma incorrecta o que comprometamos los permisos de seguridad del servidor.
